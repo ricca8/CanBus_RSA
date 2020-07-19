@@ -1,3 +1,5 @@
+/* Details on RSA signing are here: https://wiki.openssl.org/index.php/EVP_Signing_and_Verifying */
+
 #include <vector>
 #include "./include/crypto.h"
 
